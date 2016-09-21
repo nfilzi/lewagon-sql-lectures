@@ -28,11 +28,6 @@ INSERT INTO 'inhabitants' ('first_name', 'last_name', 'age', 'city_id')
                    VALUES ('Charlotte', 'Deprez', 27, 2);
 
 INSERT INTO 'inhabitants' ('first_name', 'last_name', 'age', 'city_id')
-                   VALUES ('Anne', 'Collet', 39, 2);
-INSERT INTO 'inhabitants' ('first_name', 'last_name', 'age', 'city_id')
-                   VALUES ('Charlotte', 'Deprez', 27, 2);
-
-INSERT INTO 'inhabitants' ('first_name', 'last_name', 'age', 'city_id')
                    VALUES ('Yann', 'Irbah', 30, 3);
 INSERT INTO 'inhabitants' ('first_name', 'last_name', 'age', 'city_id')
                    VALUES ('Francois Xavier', 'Abraham', 30, 3);
