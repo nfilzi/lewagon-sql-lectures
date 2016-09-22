@@ -11,8 +11,9 @@ Students dig that. They can see the results showing up, even makes more sense to
 In both folders, you also have a `reset.rb`.  
 Use it any time you screw up, or after your students asked you to try something out and it went sideways.
 
-## What next?
-For now, the data used come from `seeds.sql` files.  
+## What's next?
+For now, the data used come from `seeds.sql` files.
+  
 I hope to have some time soon to improve the `reset.rb` by parsing the CSV files for raw data instead of hard writing it into `seeds.sql`
 
 ## Fun facts
