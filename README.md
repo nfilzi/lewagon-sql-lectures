@@ -13,8 +13,10 @@ Use it any time you screw up, or after your students asked you to try something 
 
 ## What's next?
 For now, the data used come from `seeds.sql` files.
-  
-I hope to have some time soon to improve the `reset.rb` by parsing the CSV files for raw data instead of hard writing it into `seeds.sql`
+
+- I hope to have some time soon to improve the `reset.rb` by parsing the CSV files for raw data instead of hard writing it into `seeds.sql`
+
+- I may add at some point some scraping utilities, to get the data from Le Wagon Website. Let's be fabulous! :unicorn:
 
 ## Fun facts
 1. Hospital
@@ -24,3 +26,7 @@ I hope to have some time soon to improve the `reset.rb` by parsing the CSV files
 2. Population stats
   - Inhabitants: staff members from Le Wagon
   - Cities: Le Wagon in da house!
+
+## Collaboration
+Don't hesitate to raise issues to start talking about any king of improvements you may have thought about.
+Same thing for PRs, they are very welcome, given a consistent and solid reasoning :wink:
