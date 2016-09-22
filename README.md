@@ -16,7 +16,7 @@ For now, the data used come from `seeds.sql` files.
 
 - I hope to have some time soon to improve the `reset.rb` by parsing the CSV files for raw data instead of hard writing it into `seeds.sql`
 
-- I may add at some point some scraping utilities, to get the data from Le Wagon Website. Let's be fabulous! :unicorn:
+- I may add- at some point some scraping utilities, to get the data from Le Wagon Website. Let's be ambitious! :rocket:
 
 ## Fun facts
 1. Hospital
