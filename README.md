@@ -5,10 +5,10 @@ this lecture again.
 ## How does it work?
 Two folders, for the two DBs used in the slides examples.
 
-You can show students the queries running against the **separate** DBs.  
+You can show students the queries running against the **separate** DBs.
 Students dig that. They can see the results showing up, even makes more sense to them.
 
-In both folders, you also have a `reset.rb`.  
+In both folders, you also have a `reset.rb`.
 Use it any time you screw up, or after your students asked you to try something out and it went sideways.
 
 ## What's next?
@@ -28,5 +28,5 @@ For now, the data used come from `seeds.sql` files.
   - Cities: Le Wagon in da house!
 
 ## Collaboration
-Don't hesitate to raise issues to start talking about any king of improvements you may have thought about.
+Feel free to raise issues to start talking about any king of improvements you may have thought about.
 Same thing for PRs, they are very welcome, given a consistent and solid reasoning :wink:
