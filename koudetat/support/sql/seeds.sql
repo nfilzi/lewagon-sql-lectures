@@ -5,9 +5,9 @@ INSERT INTO users ('first_name', 'tagline') VALUES ('Nesrine',  'Koudetat HQ');
 INSERT INTO users ('first_name', 'tagline') VALUES ('Thomas',   'Koudetat HQ');
 INSERT INTO users ('first_name', 'tagline') VALUES ('Valentin', 'Koudetat HQ');
 
-INSERT INTO episodes ('title') VALUES ('Être entrepreneur : responsabilités et libertés');
-INSERT INTO episodes ('title') VALUES ('Du problème à la solution : le bon raisonnement');
-INSERT INTO episodes ('title') VALUES ("Seul ou à plusieurs... C'est l'équipe qui gagne !");
+INSERT INTO episodes ('title') VALUES ('To be an entrepreneur : responsibilities & freedoms');
+INSERT INTO episodes ('title') VALUES ('From the problem to the solution: how to carve your way');
+INSERT INTO episodes ('title') VALUES ("On your own or with teammates... People are the ones helping you win this race!");
 
 INSERT INTO viewings ('user_id', 'episode_id', 'created_at') VALUES (1, 1, '2016-09-25');
 INSERT INTO viewings ('user_id', 'episode_id', 'created_at') VALUES (1, 2, '2016-12-16');

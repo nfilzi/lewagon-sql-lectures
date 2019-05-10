@@ -1,0 +1,24 @@
+#!/usr/bin/env ruby
+
+require "sqlite3"
+require "fileutils"
+
+db_name = ARGV.first
+
+bin_parent_folder_path = File.expand_path("..", __dir__)
+db_sql_folder_path     = File.join(bin_parent_folder_path, "#{db_name}/support/sql")
+
+db_path     = File.join(bin_parent_folder_path, "#{db_name}/db.sqlite")
+schema_path = File.join(db_sql_folder_path, "schema.sql")
+seeds_path  = File.join(db_sql_folder_path, "seeds.sql")
+
+FileUtils.rm(db_path, force: true)
+FileUtils.touch(db_path)
+
+db = SQLite3::Database.new(db_path)
+
+schema_sql_statement = File.open(schema_path).read
+db.execute_batch(schema_sql_statement)
+
+seeds_sql_statement = File.open(seeds_path).read
+db.execute_batch(seeds_sql_statement)

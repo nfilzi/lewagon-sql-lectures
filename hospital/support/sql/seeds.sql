@@ -1,4 +1,4 @@
-INSERT INTO patients ('first_name', 'last_name', 'age') VALUES ('Season', 'Pennell', 47);
+INSERT INTO patients ('first_name', 'last_name', 'age') VALUES ('Season', 'Pennel', 47);
 INSERT INTO patients ('first_name', 'last_name', 'age') VALUES ('Fairy', 'Breen', 48);
 INSERT INTO patients ('first_name', 'last_name', 'age') VALUES ('Josefine', 'Dietrich', 61);
 INSERT INTO patients ('first_name', 'last_name', 'age') VALUES ('Jaymie', 'Plummer', 59);
