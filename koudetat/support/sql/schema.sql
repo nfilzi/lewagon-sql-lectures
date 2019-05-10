@@ -1,0 +1,17 @@
+CREATE TABLE users (
+  id INTEGER PRIMARY KEY AUTOINCREMENT,
+  first_name VARCHAR,
+  tagline VARCHAR
+);
+
+CREATE TABLE episodes (
+  id INTEGER PRIMARY KEY AUTOINCREMENT,
+  title VARCHAR
+);
+
+CREATE TABLE viewings (
+  id INTEGER PRIMARY KEY AUTOINCREMENT,
+  episode_id INTEGER,
+  user_id INTEGER,
+  created_at DATE
+);
