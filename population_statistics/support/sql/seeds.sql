@@ -11,11 +11,25 @@ INSERT INTO 'cities' ('name') VALUES ('Lisbon');
 
 -- Nantes ID: 1
 INSERT INTO 'inhabitants' ('first_name', 'last_name', 'age', 'city_id')
-                   VALUES ('Pierre', 'Facq', 35, 1);
+                   VALUES ('Pierre', 'Facq', 36, 1);
+INSERT INTO 'inhabitants' ('first_name', 'last_name', 'age', 'city_id')
+                   VALUES ('Nicolas', 'Filzi', 28, 1);
 INSERT INTO 'inhabitants' ('first_name', 'last_name', 'age', 'city_id')
                    VALUES ('Cecile', 'Veneziani', 34, 1);
 INSERT INTO 'inhabitants' ('first_name', 'last_name', 'age', 'city_id')
-                   VALUES ('Nicolas', 'Filzi', 28, 1);
+                   VALUES ('Guillaume', 'Cabanel', 32, 1);
+INSERT INTO 'inhabitants' ('first_name', 'last_name', 'age', 'city_id')
+                   VALUES ('Tim', 'Garcia', 30, 1);
+INSERT INTO 'inhabitants' ('first_name', 'last_name', 'age', 'city_id')
+                   VALUES ('Hugo', 'Daniel', 27, 1);
+INSERT INTO 'inhabitants' ('first_name', 'last_name', 'age', 'city_id')
+                   VALUES ('Pierre', 'Tissot', 26, 1);
+INSERT INTO 'inhabitants' ('first_name', 'last_name', 'age', 'city_id')
+                   VALUES ('Thibault', 'Brillet', 29, 1);
+INSERT INTO 'inhabitants' ('first_name', 'last_name', 'age', 'city_id')
+                   VALUES ('Nathan', 'Menard', 20, 1);
+INSERT INTO 'inhabitants' ('first_name', 'last_name', 'age', 'city_id')
+                   VALUES ('Mélanie', 'Rat', 26, 1);
 
 -- Paris ID: 2
 INSERT INTO 'inhabitants' ('first_name', 'last_name', 'age', 'city_id')
