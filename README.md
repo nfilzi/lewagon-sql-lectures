@@ -9,7 +9,7 @@ Three folders, one for each of the DB I'm using over the two SQL lectures:
 
 - Hospital: taken from the lectures slides
 - Population stats: taken from the lectures slides
-- Koudetat: business logic taken from [a company I'm working at](https://koudetat.co)
+- Koudetat: business logic taken from [a company I'm working at](https://koudetat.co). Involves users, episodes & viewings
 
 You can show students the queries running against the **separate** DBs.
 Students dig that. They can see the results showing up, even makes more sense to them.

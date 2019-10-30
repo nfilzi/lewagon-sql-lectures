@@ -1,9 +1,8 @@
-INSERT INTO users ('first_name', 'tagline') VALUES ('Anahi',    'Koudetat HQ');
-INSERT INTO users ('first_name', 'tagline') VALUES ('Dimitri',  'Koudetat HQ');
-INSERT INTO users ('first_name', 'tagline') VALUES ('Nicolas',  'Koudetat HQ');
-INSERT INTO users ('first_name', 'tagline') VALUES ('Nesrine',  'Koudetat HQ');
-INSERT INTO users ('first_name', 'tagline') VALUES ('Thomas',   'Koudetat HQ');
-INSERT INTO users ('first_name', 'tagline') VALUES ('Valentin', 'Koudetat HQ');
+INSERT INTO users ('first_name', 'tagline') VALUES ('Anahi',    'Head of Community');
+INSERT INTO users ('first_name', 'tagline') VALUES ('Nicolas',  'Head of Tech');
+INSERT INTO users ('first_name', 'tagline') VALUES ('Nesrine',  'Head of Content');
+INSERT INTO users ('first_name', 'tagline') VALUES ('Thomas',   'Head of Product');
+INSERT INTO users ('first_name', 'tagline') VALUES ('Valentin', 'CEO');
 
 INSERT INTO episodes ('title') VALUES ('To be an entrepreneur : responsibilities & freedoms');
 INSERT INTO episodes ('title') VALUES ('From the problem to the solution: how to carve your way');
