@@ -21,6 +21,8 @@ INSERT INTO 'inhabitants' ('first_name', 'last_name', 'age', 'city_id')
 INSERT INTO 'inhabitants' ('first_name', 'last_name', 'age', 'city_id')
                    VALUES ('Boris', 'Paillard', 30, 2);
 INSERT INTO 'inhabitants' ('first_name', 'last_name', 'age', 'city_id')
+                   VALUES ('Bébé', 'Paillard', 1, 2);
+INSERT INTO 'inhabitants' ('first_name', 'last_name', 'age', 'city_id')
                    VALUES ('Romain', 'Paillard', 31, 2);
 INSERT INTO 'inhabitants' ('first_name', 'last_name', 'age', 'city_id')
                    VALUES ('Sebastien', 'Saunier', 30, 2);
