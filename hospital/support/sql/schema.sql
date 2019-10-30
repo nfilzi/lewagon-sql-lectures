@@ -16,5 +16,5 @@ CREATE TABLE consultations (
   id INTEGER PRIMARY KEY AUTOINCREMENT,
   doctor_id INTEGER,
   patient_id INTEGER,
-  date DATE
+  created_at DATE
 );
