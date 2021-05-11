@@ -44,6 +44,8 @@ INSERT INTO 'inhabitants' ('first_name', 'last_name', 'age', 'city_id')
                    VALUES ('Cedric', 'Menteau', 32, 2);
 INSERT INTO 'inhabitants' ('first_name', 'last_name', 'age', 'city_id')
                    VALUES ('Edouard', 'Foussier', 30, 2);
+INSERT INTO 'inhabitants' ('first_name', 'last_name', 'age', 'city_id')
+                   VALUES ('Lomig', 'Enfroy', 40, 2);
 
 -- Amsterdam: ID 3
 INSERT INTO 'inhabitants' ('first_name', 'last_name', 'age', 'city_id')
